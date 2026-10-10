@@ -27,4 +27,4 @@ All queries are available in `SQL_Queries.sql` file.
 - Consumer Segment is the most frequent buyer.
 
 ## Author
-Sandi - Aspiring Data Analyst
+Sandi
